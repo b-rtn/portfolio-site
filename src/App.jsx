@@ -40,7 +40,9 @@ const projects = [
     title: 'Portfolio Website',
     description: 'A responsive React portfolio featuring an interactive thread visualization, project filtering, experience details, and light/dark themes.',
     tags: ['React', 'JavaScript', 'CSS'],
-    repositories: [],
+    repositories: [
+      { label: 'Frontend', url: 'https://github.com/b-rtn/portfolio-site' },
+    ],
   },
 ];
 
