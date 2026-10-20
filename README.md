@@ -5,8 +5,8 @@ A responsive React portfolio based on the interactive concept mockup.
 ## Run locally
 
 1. Install Node.js (version 20.19+ or 22.12+) and pnpm.
-2. In this folder, run `pnpm install`.
-3. Run `pnpm dev` and open the local address shown in the terminal.
+2. In this folder, run `npm install`.
+3. Run `npm dev` and open the local address shown in the terminal.
 
 ## Personalize
 
@@ -14,4 +14,4 @@ Update the placeholder copy and project information in `src/App.jsx`. Replace th
 
 ## Production build
 
-Run `pnpm build`. The static site is written to `dist/` and can be hosted by a static web host.
+Run `npm build`. The static site is written to `dist/` and can be hosted by a static web host.
