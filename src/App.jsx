@@ -27,7 +27,6 @@ const projects = [
     id: 'medical',
     categories: ['ai', 'healthcare'],
     title: 'Medical AI Assist',
-    status: 'Planned',
     description: 'A full-stack AI-assisted triage platform that sanitizes patient symptom submissions and generates structured summaries for clinician review. It includes patient and doctor portals, PII masking, and safeguards for handling AI responses.',
     tags: ['React', 'Java 17', 'Spring Boot 3.4', 'Spring AI', 'OpenAI', 'PostgreSQL', 'JWT'],
     repositories: [
